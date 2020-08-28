@@ -1,0 +1,10 @@
+/home/select/Desktop/Projects/Epicodus/C#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csprojAssemblyReference.cache
+/home/select/Desktop/Projects/Epicodus/C#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfoInputs.cache
+/home/select/Desktop/Projects/Epicodus/C#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfo.cs
+/home/select/Desktop/Projects/Epicodus/C#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.deps.json
+/home/select/Desktop/Projects/Epicodus/C#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.json
+/home/select/Desktop/Projects/Epicodus/C#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.dev.json
+/home/select/Desktop/Projects/Epicodus/C#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.dll
+/home/select/Desktop/Projects/Epicodus/C#/double-it/bin/Debug/netcoreapp2.2/DoubleIt.pdb
+/home/select/Desktop/Projects/Epicodus/C#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.dll
+/home/select/Desktop/Projects/Epicodus/C#/double-it/obj/Debug/netcoreapp2.2/DoubleIt.pdb
